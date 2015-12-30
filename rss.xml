@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jade]]></title>
+        <description><![CDATA[Jade]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 30 Dec 2015 16:13:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Open]]></title>
+            <description><![CDATA[<article><h1>Open</h1><p>It's me! Jade! </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4dbcb2722603fc874318e3b2e6e0f030817d77e7.jpg"></article>]]></description>
+            <link>undefinedopen/index.html</link>
+            <guid isPermaLink="false">d8738686-4064-4b69-b3af-50dd62fe59b3</guid>
+            <pubDate>Wed, 30 Dec 2015 16:12:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
